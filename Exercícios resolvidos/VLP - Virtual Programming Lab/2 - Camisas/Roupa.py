@@ -38,8 +38,8 @@ class Roupa:
         texto += f'\nCor da roupa={self.__Roupa_Cor}'
         texto += f'\nTamanho da roupa={self.__Roupa_Tam}'
         texto += f'\nQuantidade de roupas={self.__Roupa_Quant}'
-        texto += f'\nPreço da peça de roupa={self.__Roupa_Preco:.2f}'
-        texto += f'\nTotal={self.__Total_Roupa:.2f}\n'
+        texto += f'\nPreço da peça de roupa=%5.2f' % self.__Roupa_Preco
+        texto += f'\nTotal=%5.2f\n' % self.__Total_Roupa
         return texto
 
     # Questão 06: Qual o código que define o destrutor da classe Roupa?
