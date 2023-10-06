@@ -17,9 +17,11 @@ class Janela(Tk):
         self.calc = Button(self, text='Calcule')
         self.resultado = Label(self, text='Resultado', fg='blue')
 
-        # self.form.pack()
-        # self.calc.pack()
-        # self.resultado.pack()
+        self.form.grid(row=0, column=0)
+        self.calc.grid(row=1, column=0)
+        self.resultado.grid(row=2, column=0)
+
+        self.anchor('n')
 
 
 # programa principal
