@@ -3,3 +3,5 @@
 
 # python-PRO1-UDESC
  Linguagem de programação utilizada na matéria Programação I (PRO) no terceiro semestre da faculdade.
+
+ <hr><p align="center">Developed with ❤️ in Brazil 🇧🇷</p>
