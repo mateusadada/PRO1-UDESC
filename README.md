@@ -15,8 +15,8 @@
 - [Starting](#-starting)
 - [Features](#-features)
 - [Prerequisites](#-prerequisites)
-- [Built with](#%EF%B8%8F-built-with)
-- [Author](#%EF%B8%8F-author)
+- [Built with](#️-built-with)
+- [Author](#️-author)
 - [License](#-license)
 
 ## 🚀 Starting
@@ -30,9 +30,7 @@ The exercises were solved within the [VPL](https://vpl.dis.ulpgc.es/) because of
 Used during the evolution of exercises:
 
 - Graphical interface
-
 - Data manipulation
-
 - Event handling
 
 ## 📋 Prerequisites
