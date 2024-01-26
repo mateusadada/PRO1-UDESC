@@ -29,9 +29,9 @@ The exercises were solved within the [VPL](https://vpl.dis.ulpgc.es/) because of
 
 Used during the evolution of exercises:
 
-- Graphical interface
-- Data manipulation
-- Event handling
+- Graphical interface.
+- Data manipulation.
+- Event handling.
 
 ## 📋 Prerequisites
 
@@ -45,7 +45,7 @@ You need to have the Python language on your machine along with an IDE (Integrat
 
 ## 🛠️ Built with
 
-* [Python 3](https://www.python.org/) - The programming language used
+* [Python 3](https://www.python.org/) - The programming language used.
 
 ## ✒️ Author
 
