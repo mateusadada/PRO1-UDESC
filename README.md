@@ -4,7 +4,7 @@
 <a href="https://github.com/mateusadada/pro1-udesc/network/members"><img src="https://img.shields.io/github/forks/mateusadada/pro1-udesc" alt="Forks Badge"/></a>
 <a href="https://github.com/mateusadada/pro1-udesc/pulls"><img src="https://img.shields.io/github/issues-pr/mateusadada/pro1-udesc" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/mateusadada/pro1-udesc/issues"><img src="https://img.shields.io/github/issues/mateusadada/pro1-udesc" alt="Issues Badge"/></a>
-<a href="https://github.com/pro1-udesc"><img src="https://komarev.com/ghpvc/?username=pro1-udesc&color=447ff7&label=views" alt="Views count Badge"/></a>
+<a href="https://github.com/mateusadada/pro1-udesc"><img src="https://komarev.com/ghpvc/?username=pro1-udesc&color=447ff7&label=views" alt="Views count Badge"/></a>
 <br><a href="https://mateusadada.github.io/pro1-udesc" target="blank"><img src="https://img.shields.io/website?url=https%3A%2F%2Fmateusadada.github.io%2Fpro1-udesc&logo=github" /></a>
 <a href="https://github.com/mateusadada/pro1-udesc/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/mateusadada/pro1-udesc?color=2b9348"></a>
 <a href="https://github.com/mateusadada/pro1-udesc/blob/main/LICENSE"><img src="https://img.shields.io/github/license/mateusadada/pro1-udesc?color=2b9348" alt="License Badge"/></a>
