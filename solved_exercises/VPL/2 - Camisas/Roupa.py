@@ -1,5 +1,3 @@
-##################################################
-
 class Roupa:
     # Questão 01: Qual o código que define as características da classe base Roupa?
     __Roupa_Marca = None
@@ -47,5 +45,3 @@ class Roupa:
     #             Passei no destrutor da classe Roupa...
     def __del__(self):
         print('Passei no destrutor da classe Roupa...')
-
-##################################################
