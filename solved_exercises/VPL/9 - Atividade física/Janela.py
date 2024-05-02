@@ -1,11 +1,7 @@
 import sys
 from tkinter import *
 
-
-##################################################
-
-
-class Janela(Tk):  # (Complete o código que declara a classe)
+class Janela(Tk): # (Complete o código que declara a classe)
     __Lb_homem = None
     __Lb_mulher = None
     __Lb_ciclismo = None
@@ -102,7 +98,6 @@ class Janela(Tk):  # (Complete o código que declara a classe)
         #              que realiza os cálculos da Questão 07?)
         self.__Bt_calc = Button(self, text='Calcular', command=self.action_Bt_calc)
 
-        ############# Grid #############
         # Questão 10: (Acrescentar na tela os componentes gráficos)
         self.__Lb_homem.grid(row=0, column=1, padx=4, pady=4, sticky=NW)
         self.__Lb_mulher.grid(row=0, column=2, padx=4, pady=4, sticky=NW)
@@ -125,5 +120,3 @@ class Janela(Tk):  # (Complete o código que declara a classe)
         self.__Bt_calc.grid(row=4, column=1, sticky=NW, padx=4, pady=4)
 
         self.protocol("WM_DELETE_WINDOW", self.action_exit)
-
-##################################################
