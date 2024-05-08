@@ -1,5 +1,3 @@
-##################################################
-
 class Terreno:
     # Questão 01: Qual o código que define as características da classe base terreno?
     __Endereco = None
@@ -41,5 +39,3 @@ class Terreno:
     #              Passei no destrutor da classe Terreno...
     def __del__(self):
         print('Passei no destrutor da classe Terreno...')
-
-##################################################
