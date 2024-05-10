@@ -1,9 +1,6 @@
 import sys
 from tkinter import *
 
-##################################################
-
-
 class Janela(Tk):  # Questão 01: (Complete o código que declara a classe)
     __Lb_flamengo=None
     __Lb_vasco=None
@@ -91,7 +88,6 @@ class Janela(Tk):  # Questão 01: (Complete o código que declara a classe)
         #              que realiza os cálculos da Questão 06?)
         self.__Bt_calc=Button(self, text='Calcular', command=self.action_Bt_calc)
         
-        ############# Grid #############
         # Questão 09: (Acrescentar os componentes gráficos na Tela)
         self.__Lb_flamengo.grid(row=0, column=1, padx=4, pady=4, sticky=NW)
         self.__Lb_vasco.grid(row=0, column=2, padx=4, pady=4, sticky=NW)
@@ -112,5 +108,3 @@ class Janela(Tk):  # Questão 01: (Complete o código que declara a classe)
         self.__Bt_calc.grid(row=4, column=1, sticky=NW, padx=4, pady=4)
 
         self.protocol("WM_DELETE_WINDOW", self.action_exit)
-
-##################################################
