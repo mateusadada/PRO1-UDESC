@@ -1,8 +1,5 @@
 from Roupa import Roupa
 
-
-##################################################
-
 class Camisa(Roupa):  # Complete o código que define a classe Camisa
     # Questão 08: Qual o código que define as características da classe Camisa?
     __Cam_Tipo = None
@@ -43,5 +40,3 @@ class Camisa(Roupa):  # Complete o código que define a classe Camisa
     def __del__(self):
         Roupa.__del__(self)
         print('Passei no destrutor da classe Camisa...')
-
-##################################################
