@@ -1,8 +1,5 @@
 from Terreno import Terreno
 
-
-##################################################
-
 class Contribuinte(Terreno):  # Complete o código que define a classe Contribuinte
     # Questão 08: Qual o código que define as características da classe Contribuinte?
     __Nome = None
@@ -39,5 +36,3 @@ class Contribuinte(Terreno):  # Complete o código que define a classe Contribui
     def __del__(self):
         Terreno.__del__(self)
         print('Passei no destrutor da classe Contribuinte...')
-
-##################################################
